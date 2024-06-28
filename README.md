@@ -1,0 +1,1 @@
+This project is a web-based visualization of the Solar System. It allows users to explore the planets and other celestial objects through an interactive and visually appealing interface. The project is built using HTML, CSS, and JavaScript, and aims to provide an educational and engaging experience.
